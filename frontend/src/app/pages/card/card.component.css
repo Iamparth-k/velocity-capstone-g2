@@ -1,0 +1,82 @@
+.fa-heart {
+    color :palevioletred;
+    cursor : pointer;
+}
+
+
+input {
+    display: block;
+    width: fill;
+    padding: 0 20px;
+}
+
+input,
+input::placeholder {
+    font: 20px/2 sans-serif;
+}
+
+.carousel-item{
+	padding:7% 15%;
+}
+
+.carousel-inner{
+    /* background-color: → ; */
+    background-image: linear-gradient(to right, #43cea2, #185a9d);
+
+}
+
+.carousel-item active{
+    color:white;
+
+}
+
+#arrows{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.testimonial-text{
+    background-color: yellow;
+    color: #185a9d;
+    font-family:'Times New Roman', Times, serif; 
+    padding: 15px;
+    font-style: oblique;
+}
+
+#h4style{
+    color: navy;
+    font-size:5em;
+   font-style: oblique;
+    font-family:'Times New Roman', Times, serif; 
+}
+
+#cardbg{
+    
+    
+    font-family:'Times New Roman', Times, serif; 
+}
+
+
+.cardtry{
+    
+    padding: 2px;
+    color: #0f2f4e;
+    font-size: 2rem;
+}
+.cardtryhead{
+    
+    padding: 2px;
+    color: #073a6e;
+    font-size: 3rem;
+}
+
+.cardmainbg{
+    
+    border: #185a9d;
+    border-radius: 10px;
+    
+}

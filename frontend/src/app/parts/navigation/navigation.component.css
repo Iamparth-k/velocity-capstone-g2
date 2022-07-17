@@ -1,0 +1,37 @@
+a.nav-item {
+    font-size:20px;
+
+}
+
+.items{
+
+    margin-right: 10px;
+    margin-left: 10px;
+    width: fit-content;
+}
+
+#nametitle{
+    padding-left: 15px;
+    font-style: oblique;
+    font-size: 25px;
+}
+
+#imgtitle{
+    padding-top: 3px;
+
+    }
+
+
+
+/* Modify the background color */
+.navbar-custom {
+	background-color: red;
+}
+
+
+/* Modify brand and text color */
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
